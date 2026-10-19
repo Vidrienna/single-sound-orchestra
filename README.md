@@ -17,6 +17,20 @@ A composition created using several different DSP techniques like Karplus-Strong
 ## Tools
 Python/Jupyter, potentially Max/MSP (specifically for Linnea's objective 2, P4)
 
+## Techniques we will be investigating
+- Karplus-Strong String Synthesis
+- Magnitude Spectrum Manipulation and Crude Filtering
+- Flat Magnitude Reconstruction
+- Keeping only the K Magnitude Highest Peaks
+- Paulstretch & Other Phase Reconstruction Techniques
+- Allpass Filtering / Comb Filtering
+- Reverb/Specialization Algorithms
+- Degredation
+- Granular Synthesis
+- Concatenative Synthesis
+- Automatic Orchestration
+- Autotune
+
 ## Objectives
 
 **Linnea:**
