@@ -33,7 +33,7 @@ Python/Jupyter, potentially Max/MSP (specifically for Linnea's objective 2, P4)
 
 ## Objectives
 
-**Linnea:**
+**Linnea Goodwin:**
 
 - Objective 1: Technique Exploration
     - P1 (basic): play around with assigned techniques (Karplus-Strong string synthesis, filtering based on amplitude of magnitude peaks, reverb/spatialization algorithms, concatenative synthesis)
@@ -51,7 +51,7 @@ Python/Jupyter, potentially Max/MSP (specifically for Linnea's objective 2, P4)
     - P5 (advanced): Add support for a virtual piano that can be played with different “instrument” (DSP technique) presets live
         
 
-**Isabel:**
+**Isabel Ferris:**
 
 - Objective 1: Technique Exploration
     - P1 (basic): play around with assigned techniques (Paulstretch/arbitrary phase reconstruction, allpass/comb filtering, degredation, granular synthesis)
@@ -68,7 +68,7 @@ Python/Jupyter, potentially Max/MSP (specifically for Linnea's objective 2, P4)
     - P4 (advanced): Add a GUI for all of this to create a cool tool
         
 
-**Trinity:**
+**Trinity West:**
 
 - Objective 1: Technique Exploration
     - P1 (basic): play around with assigned techniques (Magnitude spectrum manipulation/crude filtering, flat magnitude reconstruction, automatic orchestration, autotune techniques)
