@@ -77,10 +77,11 @@ Python/Jupyter, potentially Max/MSP (specifically for Linnea's objective 2, P4)
     - P6 (basic): share our findings with each other
     - P7 (expected): If we have any techniques from Objective 1 that were made outside of python, convert them to python
 - Objective 2: Compile the Generalized Composition
-    - P1 (expected): Create UI Mockups for the application
+    - P1 (basic): Create UI Mockups for the application
     - P2 (expected): Add a GUI and basic backend for all of this to create a cool tool: default input will be Tom's Diner Audio Clip and MIDI file of the music that Linnea composed with output being the song
     - P3 (advanced): add support for different audio file inputs (not just Tom's Diner)
-    - P3 (advanced): Add support for using a different midi file of a different composition (could maybe automatically map different channels to their most well-matching technique?)
+    - P4 (advanced): Add support for using a different midi file of a different composition (could maybe automatically map different channels to their most well-matching technique?)
+    - P5 (advanced): Investigate Automatic Orchestration and if it will be possible to add into this program's flow
   
     
 
