@@ -62,7 +62,10 @@ Python/Jupyter, potentially Max/MSP (specifically for Linnea's objective 2, P4)
     - P6 (basic): share our findings with each other
     - P7 (expected): If we have any techniques from Objective 1 that were made outside of python, convert them to python
 - Objective 2: Compile the Generalized Composition
-    - P1 (basic): Create a MIDI mapper that maps the midi output of each channel to the corresponding DSP technique for that channel (whichever techniques you found in Objective 1 & we will split up Linnea’s)
+    - P1 (basic): develop a MIDI mapper, combining instrument functions given by Linnea with the MIDI file of the composition and Tom's Diner clip
+    - P2 (basic): add pitch shifting to the MIDI mapper
+    - P3 (expected): add support for polyphony in the MIDI mapper and time stretching for more accurate note duration mapping
+    - P4 (advanced): allow midi mapper to accept a different midi file and automatically assign instruments to channels 
     
         
 
